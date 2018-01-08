@@ -24,7 +24,7 @@ net_change() {
         logger "$APP": Performing network scan...
         scanres=
         ifconfig wlan1 down
-        iw phy phy0 interface add scan1 type station
+        iw phy phy1 interface add scan1 type station
         ifconfig scan1 up
 
         while [ "$scanres" = "" ]; do
