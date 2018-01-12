@@ -32,15 +32,48 @@ net1_ssid="Galaxy S6"
 net1_encryption="psk2"
 net1_key="nomore70"
 
+net2_ssid="McDonald's France"
+net2_encryption="none"
 
-net2_ssid="MyWifiNetwork2"
-net2_encryption="psk"
-net2_key="BigCheese"
-net2_macaddr="11:22:33:44:55:66"
-
-net3_ssid="MyWifiNetwork3"
-net3_encryption="wep"
-net3_key="DuRhumDesFemmes"
+net3_ssid="MonitoringCP"
+net3_encryption="psk2"
+net3_key="0bcababa"
 
 net4_ssid="FreeWifi"
 net4_encryption="none"
+
+net5_ssid="McDonald's France"
+net5_encryption="none"
+
+net6_ssid="McDonald's free Wifi"
+net6_encryption="none"
+
+net7_ssid="McDo Free WiFi"
+net7_encryption="none"
+
+net8_ssid="McDonalds Wifi Gratis"
+net8_encryption="none"
+
+net9_ssid="Total_Free_WiFi"
+net9_encryption="none"
+
+net10_ssid="HITKundenWLAN"
+net10_encryption="none"
+
+net11_ssid="Telekom"
+net11_encryption="none"
+
+net12_ssid="TOTAL-WIFI"
+net12_encryption="none"
+
+net13_ssid="WGRL"
+net13_encryption="psk2"
+net13_key="4865426486"
+
+net44_ssid="Darmowe_Orange_WiFi"
+net44_encryption="none"
+
+net99_ssid="MyWifiNetwork2"
+net99_encryption="psk"
+net99_key="BigCheese"
+net99_macaddr="11:22:33:44:55:66"
