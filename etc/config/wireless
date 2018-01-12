@@ -2,12 +2,12 @@
 config wifi-device 'radio0'
 	option type 'mac80211'
 	option path '10180000.wmac'
-	option country 'CN'
+	option country 'PL'
 	option txpower '20'
 	option hwmode '11ng'
 	option htmode 'HT40+'
 	option noscan '1'
-	option channel '1'
+	option channel '10'
 
 config wifi-iface
 	option device 'radio0'
@@ -26,7 +26,7 @@ config wifi-device 'radio1'
 	option path '101c0000.ehci/usb1/1-1/1-1:1.0'
 	option htmode 'HT20'
 	option txpower '20'
-	option country 'CN'
+	option country 'PL'
 
 config wifi-iface
 	option device 'radio1'
